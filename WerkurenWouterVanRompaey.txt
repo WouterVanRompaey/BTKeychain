@@ -1,0 +1,12 @@
+	BT Key Chain project:
+
+DATUM	UREN		WAT
+
+14/11	1 u		voorbereiding
+28/11	1,5u		app - projectopstart + basis
+28/11	1u		research
+5/12	2 u		Arduino setup + eerste BT communicatie testen (+research)
+7/12	1u30		ledje laten branden als verbinding verbreekt
+13/12	2u		Externe voeding probleem=> geen opl gevonden...
+11/02	4u		Nieuwe componenten testen + vernieuwing van de app
+13/02	1u		vernieuwing app

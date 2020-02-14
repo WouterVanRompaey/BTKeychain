@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BT Key Chain</string>
+
+    <string name="connectionfailed_string">Connection failed</string>
+    <string name="deviceconnected">Device connected</string>
+    <string name="devicedisconnected">Device disconnected</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_led_control">ledControl</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+
+</resources>

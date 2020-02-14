@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartGlasses</string>
+
+    <string name="connectionfailed_string">Connection failed</string>
+    <string name="deviceconnected">Device connected</string>
+    <string name="devicedisconnected">Device disconnected</string>
+</resources>
